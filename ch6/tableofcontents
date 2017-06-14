@@ -1,0 +1,10 @@
+line_width = 60
+lineone = 'Table of Contents'
+linetwo = 'Chapter 1:    Getting Started'
+linethree = 'Chapter 2:    Numbers'
+linefour = 'Chapter 3:    Letters'
+linetwor = 'Page  1'
+linethreer = 'Page  9'
+linefourr = 'Page 13'
+puts (lineone.center(line_width))
+puts (linetwo.rjust(linewidth))
